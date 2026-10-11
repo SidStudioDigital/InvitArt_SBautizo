@@ -1,0 +1,11 @@
+{
+  "children": ["Ian", "Lia"],
+  "event": { "date": "2025-10-25T12:00:00-07:00", "weekday": "Sabado", "day": "25", "month": "Octubre", "year": "2025" },
+  "verse": { "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.", "reference": "Isaias 41:10" },
+  "ceremony": { "name": "Parroquia San Felipe y Santiago", "place": "Sinaloa de Leyva, Sin.", "time": "12:00 p.m.", "celebrant": "Pbro. Elias Tarsicio Soto Castro", "mapsUrl": "" },
+  "reception": { "name": "Salon de Eventos Argyese", "place": "Baburia, Sin.", "time": "5:00 p.m.", "mapsUrl": "" },
+  "gift": "Tu presencia es nuestro mejor regalo. Si deseas tener un detalle con nosotros, agradeceremos una aportacion en efectivo.",
+  "rsvp": { "phone": "", "message": "Hola, deseo confirmar mi asistencia al bautizo de Ian y Lia." },
+  "closing": "Con mucha alegria esperamos compartir este dia tan especial contigo.",
+  "music": { "title": "Melodia de celebracion", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }
+}
